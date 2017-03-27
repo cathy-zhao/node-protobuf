@@ -1,0 +1,10 @@
+syntax = "proto2";
+
+package protobuf;
+
+// abc
+// uri=/api/cathy/yewu
+message yewu_req
+{
+    repeated abc_req reqs = 1;
+}

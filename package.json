@@ -1,0 +1,13 @@
+{
+  "name": "test-interface",
+  "description": "test-interface",
+  "repository": "cathy",
+  "version": "0.1.0",
+  "author": "cathy",
+  "dependencies": {
+    "websocket": "^1.0.24"
+  },
+  "devDependencies": {
+    "google-protobuf": "^3.2.0"
+  }
+}
